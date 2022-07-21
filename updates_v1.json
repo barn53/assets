@@ -1,0 +1,91 @@
+{
+    "updates": {
+        "v1.0.0": "v1.0.3",
+        "v1.0.1": "v1.0.3",
+        "v1.0.2": "v1.0.3",
+        "v1.0.3": false,
+        "v1.1.0": false,
+        "v1.2.0": "v1.2.2",
+        "v1.2.1": "v1.2.2",
+        "v1.2.2": false,
+        "v1.3.0": "v1.3.1",
+        "v1.3.1": false,
+        "v1.4.0": "v1.4.4",
+        "v1.4.1": "v1.4.4",
+        "v1.4.2": "v1.4.4",
+        "v1.4.3": "v1.4.4",
+        "v1.4.4": false,
+        "v1.5.0": "v1.5.1",
+        "v1.5.1": false,
+        "v1.6.0": "v1.6.1",
+        "v1.6.1": false
+    },
+    "downloads": {
+        "v1.0.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.0.0/cointhing_v1.0.0.bin"
+        },
+        "v1.0.1": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.0.1/cointhing_v1.0.1.bin"
+        },
+        "v1.0.2": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.0.2/cointhing_v1.0.2.bin"
+        },
+        "v1.0.3": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.0.3/cointhing_v1.0.3.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.0.3/spiffs_v1.0.3.bin"
+        },
+        "v1.1.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.1.0/cointhing_v1.1.0.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.1.0/spiffs_v1.1.0.bin"
+        },
+        "v1.2.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.2.0/cointhing_v1.2.0.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.2.0/spiffs_v1.2.0.bin"
+        },
+        "v1.2.1": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.2.1/cointhing_v1.2.1.bin"
+        },
+        "v1.2.2": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.2.2/cointhing_v1.2.2.bin"
+        },
+        "v1.3.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.3.0/cointhing_v1.3.0.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.3.0/spiffs_v1.3.0.bin"
+        },
+        "v1.3.1": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.3.1/cointhing_v1.3.1.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.3.1/spiffs_v1.3.1.bin"
+        },
+        "v1.4.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.4.0/cointhing_v1.4.0.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.4.0/spiffs_v1.4.0.bin"
+        },
+        "v1.4.1": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.4.1/cointhing_v1.4.1.bin"
+        },
+        "v1.4.2": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.4.2/cointhing_v1.4.2.bin"
+        },
+        "v1.4.3": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.4.3/cointhing_v1.4.3.bin"
+        },
+        "v1.4.4": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.4.4/cointhing_v1.4.4.bin"
+        },
+        "v1.5.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.5.0/cointhing_v1.5.0.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.5.0/spiffs_v1.5.0.bin"
+        },
+        "v1.5.1": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.5.1/cointhing_v1.5.1.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.5.1/spiffs_v1.5.1.bin"
+        },
+        "v1.6.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.6.0/cointhing_v1.6.0.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.6.0/spiffs_v1.6.0.bin"
+        },
+        "v1.6.1": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.6.1/cointhing_v1.6.1.bin"
+        }
+    }
+}
