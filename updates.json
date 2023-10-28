@@ -1,5 +1,7 @@
 {
     "updates": {
+        "v1.7.1": false,
+        "v1.7.0": true,
         "v1.6.1": false,
         "v1.6.0": "v1.6.1",
         "v1.5.1": false,
@@ -21,6 +23,13 @@
         "v1.0.0": "v1.0.3"
     },
     "downloads": {
+        "v1.7.1": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.7.1/cointhing_v1.7.1.bin"
+        },
+        "v1.7.0": {
+            "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.7.0/cointhing_v1.7.0.bin",
+            "spiffs": "https://github.com/barn53/CoinThing/releases/download/v1.7.0/spiffs_v1.7.0.bin"
+        },
         "v1.6.1": {
             "firmware": "https://github.com/barn53/CoinThing/releases/download/v1.6.1/cointhing_v1.6.1.bin"
         },
